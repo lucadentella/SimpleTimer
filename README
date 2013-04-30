@@ -1,0 +1,6 @@
+SimpleTimer
+
+A daily timer made with Arduino, DS1307 RTC and a relay.
+
+The project is used as example for a tutorial about finite-state machines:
+http://www.lucadentella.it/2013/04/30/macchina-a-stati-finiti-e-arduino/
